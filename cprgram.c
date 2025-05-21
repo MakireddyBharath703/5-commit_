@@ -97,5 +97,9 @@ int main() {
     printf("Hello, World!\n");
     return 0;
 #include <stdio.h>
+    int main(){
     int a,b;
-    printf("%d",a);
+    printf("%d",a,b);
+    scanf ("enter the values of a,b");
+    return 0;
+    }
