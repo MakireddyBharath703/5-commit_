@@ -98,3 +98,4 @@ int main() {
     return 0;
 #include <stdio.h>
     int a,b;
+    printf("%d",a);
