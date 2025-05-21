@@ -99,3 +99,4 @@ int main() {
 #include <stdio.h>
     int a,b;
     printf("%d",a);
+    scanf("enter a);
